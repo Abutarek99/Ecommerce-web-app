@@ -1,7 +1,7 @@
 # Ecommerce Web App
   This is a simple Ecommerce web application built using Spring Boot, providing user authentication, product management, catalog management, shopping cart 
   functionality, and order management.
-  In this project i user Java 8 features, particularly the Stream API and Optional class. The stream API allowed me 
+  In this project i used Java 8 features, particularly the Stream API and Optional class. The stream API allowed me 
   to perform operations on Collections, such as mapping and filtering, in a concise and efficient manner. The Optional class allowed me to handle null values more 
   safely
 
